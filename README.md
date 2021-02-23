@@ -6,7 +6,7 @@
 <details open>
   <summary>About Me</summary>
 
-- 📱 I'm a Android Developer :)
+- 📱 I'm a Mobile Developer :)
 - 🔭 I'm currently looking for a better opportunities!
 - 🌱 I’m currently learning JavaScript; React; Swift;
 - 💬 Ask me about games, series and movies!
