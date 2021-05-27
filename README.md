@@ -8,7 +8,7 @@
 
 - 📱 I'm a Mobile Developer :)
 - 🔭 I'm currently looking for better opportunities!
-- 🌱 I’m currently learning JavaScript; React; Swift;
+- 🌱 I’m currently learning JavaScript; React;
 - 💬 Ask me about games, series and movies!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/italocmelo/); [Twitter](https://twitter.com/olemolati);
 </details>
