@@ -13,22 +13,15 @@
   <!-- - 🔭 I'm currently looking for better opportunities! -->
 </details>
 
-<p align="justify">
-  <a href="https://github.com/italord0/github-readme-stats">
-    <img
-      align="justify"
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=italord0&count_private=true&show_icons=true&custom_title=Italo%20Melo's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
-    />
-   </a>
+<div>
+  <a href="https://github.com/carlosrodrigo">
 
-  <a href="https://github.com/italord0/github-readme-stats">
-    <img
-      align="auto"
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italord0&layout=compact&theme=vision-friendly-dark" />
-  </a>  
-</p>
+  <img height="184em" src="https://github-readme-stats.vercel.app/api?username=Italord0&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="184em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italord0&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+    
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Italord0&theme=vision-friendly-dark" alt="carlosrodrigo" />
+  <img height="200em" src="https://github-profile-trophy.vercel.app/?username=Italord0&theme=onedark&row=2&column=3&no-bg=true"/>
+</div>
 
 <!--### Studying:-->
 ### Technologies:
