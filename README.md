@@ -1,7 +1,7 @@
 <h1> Hi there, I'm Italo! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"></h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italocmelo/)](https://www.linkedin.com/in/italocmelo/)
 [![Gmail Badge](https://img.shields.io/badge/-italord.melo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:italord.melo@gmail.com)](mailto:italord.melo;2gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italocmelo/)](https://www.linkedin.com/in/italocmelo/)
 
 <details open>
   <summary>About Me</summary>
