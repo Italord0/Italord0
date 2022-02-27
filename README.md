@@ -17,9 +17,10 @@
   <a href="https://github.com/Italord0">
 
   <img height="184em" src="https://github-readme-stats.vercel.app/api?username=Italord0&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="184em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italord0&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+  <img height="184em" src="https://github-readme-streak-stats.herokuapp.com/?user=Italord0&theme=vision-friendly-dark" alt="carlosrodrigo" />
+  <img height="319em" width="900em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italord0&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
     
-  <img height="319em" src="https://github-readme-streak-stats.herokuapp.com/?user=Italord0&theme=vision-friendly-dark" alt="carlosrodrigo" />
+  
 </div>
 
 <!--### Studying:-->
