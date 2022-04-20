@@ -8,7 +8,7 @@
   <summary>About Me</summary>
 
 - 📱 I'm a Mobile Developer :)
-- 🌱 I’m currently learning JavaScript; React;
+- 🌱 I’m currently learning ReactNative; Flutter;
 - 💬 Ask me about games, series and movies!
   <!-- - 🔭 I'm currently looking for better opportunities! -->
 </details>
