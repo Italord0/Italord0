@@ -8,9 +8,8 @@
   <summary>About Me</summary>
 
 - 📱 I'm a Mobile Developer :)
-- 🌱 I’m currently learning; Flutter;
+- 🌱 I’m currently learning: Jetpack Compose
 - 💬 Ask me about games, series and movies!
-  <!-- - 🔭 I'm currently looking for better opportunities! -->
 </details>
 
 <div>
