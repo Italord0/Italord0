@@ -24,13 +24,12 @@
 
 <!--### Studying:-->
 ### Technologies:
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/32901063/122115889-4e5af000-cdfb-11eb-8988-c7c776bce4f7.png"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png"></code>
-<code><a href="https://firebase.google.com/"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
+<code><img height="30" src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"></code>
 <br>
