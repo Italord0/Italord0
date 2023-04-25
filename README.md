@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Italo! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"> width="50"> </h1>
+<h1> Hi there, I'm Italo! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"> </h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-italord.melo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:italord.melo@gmail.com)](mailto:italord.melo@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italocmelo/)](https://www.linkedin.com/in/italocmelo/)
