@@ -12,6 +12,7 @@
 - 💬 Ask me about games, series and movies!
 </details>
 
+<!--
 <div>
   <a href="https://github.com/Italord0">
 
