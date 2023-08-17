@@ -8,7 +8,7 @@
   <summary>About Me</summary>
 
 - 📱 I'm a Mobile Developer :)
-- 🌱 I’m currently learning: Jetpack Compose
+- 🌱 I’m currently learning: SwiftUI
 - 💬 Ask me about games, series and movies!
 </details>
 
