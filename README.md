@@ -6,7 +6,7 @@
   <summary>About Me</summary>
 
 - 📱 I'm a Mobile Developer :)
-- 🌱 I’m currently learning: SwiftUI
+- 🌱 I’m currently learning: Kotlin Multiplatform
 - 💬 Ask me about games, series and movies!
 </details>
 
