@@ -1,6 +1,8 @@
 <h1> Hi there, I'm Italo! <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="50"> </h1>
 
-![](https://komarev.com/ghpvc/?username=Italord0)
+<!--![](https://komarev.com/ghpvc/?username=Italord0) -->
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Folemolati&style=flat-square&logo=x&logoColor=white&label=%40olemolati&labelColor=black&color=black)
+[![Medium Badge](https://img.shields.io/badge/-@italord.melo-000000?style=flat-square&labelColor=000000&logo=Medium)](https://medium.com/@italord.melo/)
 
 <details open>
   <summary>About Me</summary>
